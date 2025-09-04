@@ -1,0 +1,30 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "meu portifolio, onde eu vou expressar todas as  minhas competencias com tecnologias front end",
+  "keywords": [
+    "Portifolio",
+    "Angular",
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Web",
+    "Front-end",
+    "Client-side"
+  ],
+  "homepage": "https://github.com/LuanaKitty/portifolioLuana#readme",
+  "bugs": {
+    "url": "https://github.com/LuanaKitty/portifolioLuana/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanaKitty/portifolioLuana.git"
+  },
+  "license": "ISC",
+  "author": "Luana Carvalho",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo (\"error!\")"
+  }
+}
