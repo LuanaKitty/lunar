@@ -1,4 +1,4 @@
-# 🌙 Lunar - Repositório de Estudos de Ciência da Computação
+# Lunar - Repositório de Estudos de Ciência da Computação
 
 🐇 **Lunar**, meu repositório pessoal de estudos da faculdade de Ciência da Computação! Este projeto organiza todo o conhecimento adquirido ao longo da graduação, servindo como um mapa de aprendizado e um recurso de consulta.
 
