@@ -136,6 +136,3 @@ Este repositório é para fins educacionais e pessoais. Todo o conteúdo aqui di
 
 **Última atualização:** Janeiro 2024  
 **Status do Curso:** Em andamento 📚
-
----
-⭐ Se este repositório for útil para você, considere dar uma estrela!
